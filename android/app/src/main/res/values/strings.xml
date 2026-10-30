@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">R答题助手</string>
+    <string name="page_text_service_name">R答题助手页面文字读取</string>
+</resources>
